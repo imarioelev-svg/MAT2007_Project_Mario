@@ -5,6 +5,8 @@ Intro to programing project assignment.
 ## Description
 This project explores the scientific question of whether a measurable correlation exists between self-reported sleep duration and average clinical blood pressure. The repository contains a Python script that analyzes clinical and demographic data to generate visual and statistical insights, specifically testing for correlations across different age groups and sleep duration brackets.
 
+(an extra plot which was not included in the report was generated, showing the heatmap for 3 sleep-time bins, but because of lack of space within the report, and the new graph not providing any significant changes to the results, it was not included in the report)
+
 ## Dataset
 **Source:** [2021-2023 National Health and Nutrition Examination Survey (NHANES)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
